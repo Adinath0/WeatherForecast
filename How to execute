@@ -1,0 +1,4 @@
+#In Command Prompt
+python Weather.py City_Name
+
+replace City_Name with the name of the city
